@@ -1,0 +1,19 @@
+{
+  "name": "動く数学図鑑",
+  "short_name": "数学図鑑",
+  "description": "図形・関数・空間図形を、指やペンで動かしながら学ぶ教材集（インターネット接続なしで動きます）",
+  "lang": "ja",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f8f5ee",
+  "theme_color": "#f8f5ee",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
