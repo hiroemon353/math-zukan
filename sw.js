@@ -2,7 +2,7 @@
 // 最初に開いたとき、起動に必要なファイルをすべて端末に保存し、以後は通信しないで起動する。
 // 新しい版は「待機」させ、画面の「更新する」を押したときだけ切り替える（授業中に勝手に変わらないように）。
 // 下の版の番号とファイルの一覧は scripts/公開用ファイルを作る.mjs が書き込む。
-const VERSION = "2026-11-09-d163a14a78";
+const VERSION = "2026-11-09-4bdd09077a";
 const CACHE = `math-zukan-${VERSION}`;
 const FILES = ["./index.html","./manifest.webmanifest","./icons/apple-touch-icon.png","./icons/favicon-32.png","./icons/icon-192.png","./icons/icon-512.png"];
 
